@@ -1,16 +1,12 @@
-# Project Name
+# Articles
 
-> One paragraph statement about the project.
+> Articles on html5/css3
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Markdown
+- Prettier
 
 ## Live Demo
 
@@ -21,7 +17,7 @@ Additional description about the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/user/Articles.git
 
 ```
 
@@ -29,18 +25,6 @@ git clone https://github.com/user/html-css-template.git
 
 ```bash
 npm install
-```
-
-To run StyleLint by itself, you may run the lint task:
-
-```bash
-npm run lint:check
-```
-
-Or to automatically fix issues found (where possible):
-
-```bash
-npm run lint
 ```
 
 You can also check against Prettier:
@@ -55,11 +39,6 @@ and to have it actually fix (to the best of its ability) any format issues, run:
 npm run format
 ```
 
-You can also check against HTML Validator:
-
-```bash
-npm run html-validator
-```
 
 ## Style Guides
 
@@ -68,11 +47,11 @@ npm run html-validator
 - [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
-## 👤 Author
+## 👤 Abimbola Buari Aminat
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@bimbolabuari](https://github.com/bimbolabuari)
+- Twitter: [@bimbolabuari](https://twitter.com/bimbolabuari)
+- Linkedin: [@bimbolabuari](https://www.linkedin.com/in/bimbolabuari)
 
 ## 🤝 Contributing
 
