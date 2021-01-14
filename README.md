@@ -1,23 +1,18 @@
 # Articles
 
-> Articles on html5/css3
-
+> This project is about articles on html5 and css3
 
 ## Built With
 
-- Markdown
-- Prettier
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- [Prettier](https://prettier.io/) for code formatting
+- [Github Actions for workflow](https://github.com/features/actions)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/Articles.git
+git clone https://github.com/bimbolabuari/articles.git
 
 ```
 
@@ -39,14 +34,6 @@ and to have it actually fix (to the best of its ability) any format issues, run:
 npm run format
 ```
 
-
-## Style Guides
-
-- [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
-- [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
-- [Git Style Guide](https://udacity.github.io/git-styleguide/)
-
 ## 👤 Abimbola Buari Aminat
 
 - Github: [@bimbolabuari](https://github.com/bimbolabuari)
@@ -65,9 +52,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [Bolah2009](https://github.com/bolah2009)
 
 ## 📝 License
 
